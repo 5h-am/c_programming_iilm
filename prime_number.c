@@ -17,6 +17,7 @@ int main () {
         printf("%d is a Prime Number", n);
     } else {printf("%d is not a Prime Number", n);}
     printf("\n");
-    return o;
+    return 0;
+
 
 }
